@@ -1,4 +1,4 @@
-- 👋 Hi, Soy @CVRELECTRONICA un proyecto que busca materializar infinidades de ideas en el mundo del software hardware y una mezcla entre ellos 😁.
+- 👋 Hi, Soy @CVRELECTRONICA un proyecto que busca materializar infinidades de ideas en el mundo del software, el hardware y una mezcla entre ellos 😁.
 - ❤️ Amamos PHP, C++, Lua, Python, JavaScript, SQL, Java, Arduino y algunos otros lenguajes de este espectaular entorno. 
 - 💪🏿 Algunos de nuestros proyectos materializados: 
 - 📗 ceenford.org (pagina y aplicación web)
